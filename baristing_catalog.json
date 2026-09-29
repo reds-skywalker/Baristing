@@ -1,0 +1,30 @@
+[
+  {
+    "id": "item_1",
+    "name": "Prensa Francesa",
+    "type": "Método de Inmersión",
+    "description": "Produce una taza con cuerpo completo y aceites naturales intactos. Ideal para cafés con tueste medio a oscuro.",
+    "img_src": "https://raw.githubusercontent.com/reds-skywalker/Baristing/main/imagenes/prensa_francesa.png" 
+  },
+  {
+    "id": "item_2",
+    "name": "V60",
+    "type": "Método de Goteo (Pour-over)",
+    "description": "Filtro cónico que resalta la acidez, claridad y notas florales o frutales del café. Requiere un vertido controlado.",
+    "img_src": "https://raw.githubusercontent.com/reds-skywalker/Baristing/main/imagenes/v60.png"
+  },
+  {
+    "id": "item_3",
+    "name": "Aeropress",
+    "type": "Inmersión y Presión",
+    "description": "Versátil, rápido y portátil. Permite una extracción limpia y concentrada, casi estilo espresso, o una taza suave según la técnica.",
+    "img_src": "https://raw.githubusercontent.com/reds-skywalker/Baristing/main/imagenes/aeropress.png"
+  },
+  {
+    "id": "item_4",
+    "name": "Chemex",
+    "type": "Método de Goteo (Pour-over)",
+    "description": "Usa filtros de papel más gruesos que retienen la mayoría de los aceites, resultando en una taza extremadamente limpia y brillante.",
+    "img_src": "https://raw.githubusercontent.com/reds-skywalker/Baristing/main/imagenes/chemex.png"
+  }
+]
